@@ -3,5 +3,5 @@ node_js:
   - 12.12.0
 
 script:
-  - console.log('test travis cli')
+  - "echo "test travis cli" "
   

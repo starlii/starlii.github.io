@@ -1,0 +1,14 @@
+{
+  "name": "starlii.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/starlii/starlii.github.io.git",
+  "author": "Star (Shun) Li <Starlee.Li@fatri.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }, 
+  "scripts": {
+    "test": "jest"
+  }
+}

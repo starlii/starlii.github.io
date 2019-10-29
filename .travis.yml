@@ -4,4 +4,4 @@ node_js:
 install:
   - yarn install
 script:
-  - echo "yarn test"
+  - yarn test
